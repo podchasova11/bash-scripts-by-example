@@ -1,4 +1,4 @@
-# Bash scripts by example
+## Bash scripts by example
 
 [`English`](https://github.com/cheatsnake/bash-scripts-by-example/blob/master/README.md) [`Russian`](https://github.com/cheatsnake/bash-scripts-by-example/blob/master/README_RUS.md)
 
